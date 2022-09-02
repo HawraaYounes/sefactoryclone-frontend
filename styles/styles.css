@@ -79,3 +79,23 @@
     font-size: 30px;
     font-weight: bold;
 }
+.third-section{
+    margin-top: 5%;
+    width: 100%;
+}
+.image-div{
+    max-width: 50%;
+}
+.image-div img{
+    width:100%;
+}
+.third-section-text{
+    color:black;
+    width: 50%;
+}
+.third-section-text h2{
+    font-size: 40px;
+}
+.third-section-text p{
+    font-size: 30px;
+}
