@@ -80,7 +80,7 @@
     font-weight: bold;
 }
 .third-section{
-    margin-top: 5%;
+    margin-top: 3%;
     width: 100%;
 }
 .image-div{
@@ -98,4 +98,24 @@
 }
 .third-section-text p{
     font-size: 30px;
+}
+.fourth-section{
+    margin-top: 3%;
+    background-color: #0d0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 19px;
+}
+.fourth-section p{
+    font-size: 50px;
+}
+.fourth-section div{
+    background-color: white;
+    border-radius: 15px;
+    width: 50%;
+    color: black;
+}
+.fourth-section div h4{
+    color:grey
 }
